@@ -1,0 +1,23 @@
+h1
+ { 
+	text-align: center;
+	color: white;
+background-color: black;
+	font-family: helvetica;
+
+				}
+
+#Ract
+{
+	text-align: left;
+	font-family: helvetica;
+				}
+body
+{
+	background-image: url("../bg.png");
+	 background-color: lightblue;
+	 background-position: center;
+background-repeat: no-repeat;
+background-size: cover;			}
+
+
